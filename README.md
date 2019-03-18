@@ -20,6 +20,6 @@ React and ES6 by building a Movie Discovery
 - Movie Detail
 - Search (TV, Movie)
 
-#Preview
+## Preview
 
 Try it on [netlify](https://unruffled-williams-01b2ee.netlify.com/#/)
