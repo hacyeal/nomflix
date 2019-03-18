@@ -25,7 +25,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://hacyeal.github.io/nomflix",
+  "homepage": "https://unruffled-williams-01b2ee.netlify.com",
   "browserslist": [
     ">0.2%",
     "not dead",
